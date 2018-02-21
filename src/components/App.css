@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.indexTitles{
+  color: #A0C7D3;
+}
+
+.display-4:hover { 
+  background-color: #030302;
+  color: #030302;
+  transition: background-color .7s;
+}
+
+.btn-primary{
+  margin-right: 10px;
+}
+
+.text-help{
+  color: red;
+  background-color: yellow;
+}
+
+.area {
+  height: 150px;
+  margin-right: 40px;
+}
+
+.title {
+  font-weight: bold;
+}
